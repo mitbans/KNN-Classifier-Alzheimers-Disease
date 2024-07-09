@@ -50,20 +50,14 @@ The goal of this project is to accurately distinguish Alzheimer's disease patien
 - **Objective:** Maximize the detection of Alzheimer's patients (minimize false negatives).
 - **Outcome:** Using the optimal K value of 3 and threshold of 0.33 provided the best balance between detecting true positives and minimizing false negatives.
 
-### Confusion Matrix
+#### Confusion Matrix
 Confusion matrices were generated to visualize the performance of the model at various stages:
 - **Initial Model (K=3, Threshold=0.33):** Provided insights into the classification performance.
 - **Optimized Model (K=11 based on ROC AUC):** Showed less improved detection capabilities.
 
-### Detailed Confusion Matrices
-- Initial Model: 
- 
-- Optimized Model:
-  
-
-### Screenshots
+#### Screenshots
 - **Training Misclassification Rates:**
-  <img width="1060" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/1e21a55e-7545-46c1-afa1-eb493bba18e1">
+<img width="1060" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/1e21a55e-7545-46c1-afa1-eb493bba18e1">
   
 - **Model Output:**
 <img width="396" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/8bc6be7f-0f42-414d-9456-755a4c7cb4f2">
@@ -80,6 +74,15 @@ Confusion matrices were generated to visualize the performance of the model at v
 <img width="637" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/8d24dafe-8f54-4c7f-8ffa-877eb83c53c9">
 <img width="594" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/4668d491-bf34-4741-aae7-301e16fcb455">
 <img width="533" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/a788a042-6a92-43d6-83f4-0e56b4f8df4c">
+
+<div class="image-row">
+  <div class="image-column">
+    <img width="650" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/78ab294e-2f36-4b9e-abf5-66ec4476b46f">
+  </div>
+  <div class="image-column">
+    <img width="637" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/8d24dafe-8f54-4c7f-8ffa-877eb83c53c9">
+  </div>
+</div>
 
 ### Further Analysis
 - **Feature Importance:** Analysis to understand which handwriting features contribute most to distinguishing between Alzheimer's patients and healthy individuals.
