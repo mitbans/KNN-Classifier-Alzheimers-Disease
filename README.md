@@ -75,15 +75,6 @@ Confusion matrices were generated to visualize the performance of the model at v
 <img width="594" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/4668d491-bf34-4741-aae7-301e16fcb455">
 <img width="533" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/a788a042-6a92-43d6-83f4-0e56b4f8df4c">
 
-<div class="image-row">
-  <div class="image-column">
-    <img width="650" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/78ab294e-2f36-4b9e-abf5-66ec4476b46f">
-  </div>
-  <div class="image-column">
-    <img width="637" alt="image" src="https://github.com/mitbans/KNN-Classifier-Alzheimers-Disease/assets/166747739/8d24dafe-8f54-4c7f-8ffa-877eb83c53c9">
-  </div>
-</div>
-
 ### Further Analysis
 - **Feature Importance:** Analysis to understand which handwriting features contribute most to distinguishing between Alzheimer's patients and healthy individuals.
 - **Model Robustness:** Evaluated the model's robustness by testing on additional validation datasets, if available.
