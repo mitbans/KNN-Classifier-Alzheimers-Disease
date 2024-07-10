@@ -6,7 +6,6 @@ The goal of this project is to accurately distinguish Alzheimer's disease patien
 ### Data Collection
 - **Dataset:** DARWIN dataset from UCI Machine Learning Repository
 - **Repository URL:** [DARWIN Dataset](https://archive.ics.uci.edu/dataset/732/darwin)
-- **Data URL:** [Download Data](https://archive.ics.uci.edu/static/public/732/data.csv)
 
 #### Dataset Information
 - **Participants:** 174
